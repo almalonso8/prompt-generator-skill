@@ -17,6 +17,9 @@ This Claude Skill automates the creation of enterprise-grade prompts for Adobe's
 
 ## Installation
 
+### skills-md folder
+You can use the skills.md files and explore them individually from this folder.
+
 ### Upload to Claude Skills
 
 1. Download the `.skill` file from this repository
