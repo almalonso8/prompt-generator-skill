@@ -1,4 +1,4 @@
-Important note: This skill is a reference you may use and refine, **it is not maintained by Adobe**
+## This skill is a reference you may use and refine, it is not maintained by Adobe
 
 # Prompt Generator for Adobe LLMO
 
@@ -399,14 +399,4 @@ Load these as needed:
 - Claude account with Skills enabled
 - Adobe LLM Optimizer (LLMO) access (for CSV import)
 
-## Contributing
-
-Issues and pull requests welcome. This skill is a reference you may use and refine, **it is not maintained by Adobe**
-
-## License
-
-MIT
-
----
-
-**Note**: Adobe LLMO is Adobe's platform for optimizing and tracking LLM-generated content across AI platforms. This skill generates prompts specifically formatted for LLMO's analytics and tracking capabilities.
+## This skill is a reference you may use and refine, it is not maintained by Adobe
