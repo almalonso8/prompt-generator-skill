@@ -10,7 +10,7 @@ This Claude Skill automates the creation of enterprise-grade prompts for Adobe's
 
 - **Generates localized prompts** across any language using region codes (e.g., `en-US`, `de-CH`, `fr-FR`)
 - **Maps customer journeys** with industry-specific stages (airlines, energy, retail, financial services)
-- **Creates GEO-trackable prompts** with proper region codes for Adobe LLMO analytics
+- **Creates GEO-trackable prompts** with proper region codes for Adobe LLM Optimizer
 - **Exports to CSV** in Adobe LLMO's required format (4 columns: category, topic, prompt, region)
 - **Ensures quality** with built-in scoring (specificity, context richness, deliverable clarity)
 - **Maintains brand consistency** with 35-40% branded prompts, 60-65% non-branded for competitive tracking
